@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_424858_hr_admini.hr" name="x_424858_hr_admini.hr">420a5810db030010f89c29464896191c</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-14 10:39:02</sys_created_on>
+        <sys_id>820a5810db030010f89c29464896191f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>420a5810db030010f89c29464896191c</sys_name>
+        <sys_package display_value="HR Administration" source="x_424858_hr_admini">56e9105cdb030010f89c294648961994</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR Administration">56e9105cdb030010f89c294648961994</sys_scope>
+        <sys_update_name>sys_embedded_help_role_820a5810db030010f89c29464896191f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-14 10:39:02</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
