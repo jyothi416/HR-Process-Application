@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="17c990a5dbcf0010f89c2946489619e0" sys_domain="global" table="x_424858_hr_admini_hr_process" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-18 07:50:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d7c990a5dbcf0010f89c2946489619e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_424858_hr_admini_hr_process" name="x_424858_hr_admini_hr_process" sys_domain="global" view="Default view">17c990a5dbcf0010f89c2946489619e0</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_424858_hr_admini_hr_process" sys_domain="global" view="Default view">6a9d1810db430010f89c29464896198d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-18 07:50:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-18 07:50:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d3c990a5dbcf0010f89c2946489619e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_424858_hr_admini_hr_process" name="x_424858_hr_admini_hr_process" sys_domain="global" view="Default view">17c990a5dbcf0010f89c2946489619e0</sys_ui_form>
+            <sys_ui_section caption="Log" display_value="Log" name="x_424858_hr_admini_hr_process" sys_domain="global" view="Default view">1bc990a5dbcf0010f89c2946489619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-18 07:50:27</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-18 07:58:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e2abdce5dbcf0010f89c294648961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_424858_hr_admini_hr_process" name="x_424858_hr_admini_hr_process" sys_domain="global" view="Default view">17c990a5dbcf0010f89c2946489619e0</sys_ui_form>
+            <sys_ui_section caption="Activity Planned Date" display_value="Activity Planned Date" name="x_424858_hr_admini_hr_process" sys_domain="global" view="Default view">6eab9ce5dbcf0010f89c294648961988</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-18 07:58:34</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-18 08:24:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c591e86ddbcf0010f89c29464896194e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_424858_hr_admini_hr_process" name="x_424858_hr_admini_hr_process" sys_domain="global" view="Default view">17c990a5dbcf0010f89c2946489619e0</sys_ui_form>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_424858_hr_admini_hr_process" sys_domain="global" view="Default view">0191e86ddbcf0010f89c29464896194b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-18 08:24:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_424858_hr_admini_hr_process</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-18 07:50:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>17c990a5dbcf0010f89c2946489619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_424858_hr_admini_hr_process</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="HR Administration" source="x_424858_hr_admini">56e9105cdb030010f89c294648961994</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HR Administration">56e9105cdb030010f89c294648961994</sys_scope>
+            <sys_update_name>sys_ui_form_sections_17c990a5dbcf0010f89c2946489619e0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-18 07:50:26</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
